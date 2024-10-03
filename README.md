@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Piyush Kashyap
 # 💫 About Me:
-<br>Expertise: AI and AIOps with focus on machine learning and generative AI<br>Education: Completed Master of Computer Application in June 2023<br>Current Position: Associate Software Developer<br>Passion: Continuous learning and advancement in AI<br>Goal: Making significant contributions to the field of AI and AIOps.
+<br>Expertise: AI and AIOps with focus on machine learning and generative AI<br>Education: Completed Master of Computer Application in June 2023<br>Current Position: Associate AI/MLr<br>Passion: Continuous learning and advancement in AI<br>Goal: Making significant contributions to the field of AI and AIOps.
 
 
 ## 🌐 Socials:
